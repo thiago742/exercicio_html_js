@@ -1,0 +1,22 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#formulario-container {
+    text-align: center;
+}
+
+.mensagem-positiva {
+    color: green;
+    margin-top: 15px;
+}
+
+.mensagem-negativa {
+    color: red;
+    margin-top: 15px;
+}
